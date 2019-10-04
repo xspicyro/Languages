@@ -1,12 +1,12 @@
 {
-    "SERVER_JOINED": "You're connected to {IDENTITY}",
+    "SERVER_JOINED": "Sunteți conectat la {IDENTITY}",
     "PREFIXES": {
         "SERVER": "Server",
-        "PERMISSION": "Permission",
+        "PERMISSION": "Permisiune",
         "PORTAL": "Portal",
-        "TREASURE": "Treasure",
+        "TREASURE": "Comoară",
         "GADGET": "Gadget",
-        "PET": "Pet",
-        "PARTICLE": "Particle"
+        "PET": "Animal de companie",
+        "PARTICLE": "Particulă"
     }
 }
