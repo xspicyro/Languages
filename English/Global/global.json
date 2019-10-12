@@ -1,20 +1,20 @@
 {
-    "SERVER_JOINED": "You're connected to {IDENTITY}",
-    "LANGUAGE_CHANGE": "Your language has been set to {LANGUAGE}",
-    "LANGUAGE_CHANGE_SAME": "That's already your default language!",
-    "LANGUAGE_PAGE_DESCRIPTION": "VastLands supports the following languages below, support is light. We'll continually improve it. Click on any below to set it as your default language",
+    "SERVER_JOINED": "Sunteți conectat la {IDENTITY}",
+    "LANGUAGE_CHANGE": "Limba dvs. a fost setată pe {LANGUAGE}",
+    "LANGUAGE_CHANGE_SAME": "Aceasta este deja limba dvs. implicită!",
+    "LANGUAGE_PAGE_DESCRIPTION": " VastLands acceptă următoarele limbi de mai jos, suportul este ușor. Îl vom îmbunătăți conținutul. Faceți clic pe oricare dintre cele de mai jos pentru a o seta ca limbă implicită",
     "PREFIXES": {
         "SERVER": "Server",
-        "PERMISSION": "Permission",
+        "PERMISSION": "Permisiune",
         "PORTAL": "Portal",
-        "TREASURE": "Treasure",
+        "TREASURE": "Comoară",
         "GADGET": "Gadget",
-        "PET": "Pet",
-        "PARTICLE": "Particle",
-        "LANGUAGE": "Language"
+        "PET": "Animal de companie",
+        "PARTICLE": "Particulă",
+        "LANGUAGE": "Limbă"
     },
     "GAMES": {
-        "DUEL": "Duels",
-        "PRISON": "Prison"
+        "DUEL": "Dueluri",
+        "PRISON": "Închisoare"
     }
 }
