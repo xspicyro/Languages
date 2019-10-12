@@ -1,0 +1,20 @@
+{
+"SERVER_JOINED": "Sunteți conectat la {IDENTITY}",
+"LANGUAGE_CHANGE": "Limba dvs. a fost setată pe {LANGUAGE}",
+"LANGUAGE_CHANGE_SAME": "Aceasta este deja limba dvs. implicită!",
+"LANGUAGE_PAGE_DESCRIPTION": " VastLands acceptă următoarele limbi de mai jos, suportul este ușor. Îl vom îmbunătăți conținutul. Faceți clic pe oricare dintre cele de mai jos pentru a o seta ca limbă implicită",
+"PREFIXES": {
+"SERVER": "Server",
+"PERMISSION": "Permisiune",
+"PORTAL": "Portal",
+"TREASURE": "Comoară",
+"GADGET": "Gadget",
+"PET": "Animal de companie",
+"PARTICLE": "Particulă",
+"LANGUAGE": "Limbă"
+},
+"GAMES": {
+"DUEL": "Dueluri",
+"PRISON": "Închisoare"
+}
+}
